@@ -1,0 +1,57 @@
+Outline for rational
+1-Small and medium learning center with no IT
+2-effectiveness of school management system
+3-cloud-based services
+4-mobile technology
+5-interaction between stakeholders in a school
+
+1st consultaion notes
+Objectives of the Study
+- remove app name
+- add more details
+- change to more appropriate terms
+- chronological order of sub-objectives
+Scope and Limitations
+- use less subjective terms
+- write limitations in narrative form
+Significance
+- reorder most significant to least
+- use less subjective terms
+Flow of the study
+- make another more detailed version
+- rearrange input and process
+- output use app name only
+Definition of terms
+- terms must be from objectives only
+- remove understandable ones
+
+2nd consultation remarks
+Objectives of the Study
+- remove 's' in Objectives
+- in intro statement replace statements with features to focus on customer segments
+- ';' at end of every sub-objective with 'and' before last
+Scope and Limitations
+- no need for intro, directly write about the scope
+- remove 'best'
+- add the "how" of the scope
+- in limitations, replace internet to can't fully function offline
+- transfer android to scope
+*check for governing body for learning centers
+	- i.e. ched - for college & DepEd for basic
+Significance
+- add parents
+Flow of the study
+- output is better with description
+Definition of terms
+- add educators
+- add "issues encountered by small and medium learning centers"
+Related Literature
+- are journal based writings related to research.
+- preferable to have international, national, and local entries.
+- at least 5
+Related Studies
+- make it 5 studies
+- should be within 5 years
+- preferable to have international, national, and local entries.
+Comparative matrix
+- tabled format for related studies to highlight differences to own study
